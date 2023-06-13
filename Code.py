@@ -1,3 +1,5 @@
+# place your genome.fasta and annotation.gff files in the WD
+
 # Read the GFF (annotation) file
 annotation_file = "annotation.gff"
 
